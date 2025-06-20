@@ -8,7 +8,7 @@
 😄 I'm a `Fullstack-overflow Developer` \
 👯 My hobbies: touching grass \
 🔭 I’m currently working on building a house \
-🌱 I’m currently learning `Golang` `System Design` `AI Engineering` \
+🌱 I’m currently learning `System Design` `AI Engineering` \
 📫 Feel free to reach out to me: schememaster333@gmail.com
 
 
