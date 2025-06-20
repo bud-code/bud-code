@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi there 👋, I'm Nguyen Nhon <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
+  Hi there 👋, I'm Nguyen Nhon <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="40" height="40"/>
 </h1>
 
 ### About me  💻
