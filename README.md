@@ -20,7 +20,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tailwind,threejs,javascript,typescript,nodejs,nestjs,react,next,vue,python,fastapi,java,spring,php,laravel,mongodb,postgresql,mysql,redis,rabbitmq,kafka,git,githubactions,aws,terraform,kubernetes,docker,linux,bash,arch,neovim" />
+    <img src="https://skillicons.dev/icons?i=tailwind,threejs,javascript,typescript,nodejs,nestjs,react,next,vue,python,fastapi,java,spring,php,laravel,mongodb,postgresql,mysql,redis,rabbitmq,kafka,aws,terraform,docker,kubernetes,git,githubactions,linux,bash,arch,neovim" />
   </a>
 </p>
 <h6 align="left">master of none &nbsp;<img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotlight.gif" width="25" height="25" />
